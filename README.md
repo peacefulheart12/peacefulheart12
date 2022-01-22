@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gaurav Tiwari.
 - 👀 I’m interested in Data Analysis.
 - 🌱 I’m currently learning Data analysis and python/R programming and also various data visualization tools. 
-- 💞️ I’m looking for internship or working student as a data analyst.
+- 💞️ I’m doing internship in Zenjob as Business Intelligence Analyst.
 - 📫 How to reach me - tiwarigaurav8642@gmail.com
 
 <!---
